@@ -1,0 +1,1502 @@
+[
+  {
+    "Country Name":"Andorra",
+    "Country Capital":"Andorra la Vella",
+    "Country Population":84000,
+    "Country Area":468.0
+  },
+  {
+    "Country Name":"United Arab Emirates",
+    "Country Capital":"Abu Dhabi",
+    "Country Population":4975593,
+    "Country Area":82880.0
+  },
+  {
+    "Country Name":"Afghanistan",
+    "Country Capital":"Kabul",
+    "Country Population":29121286,
+    "Country Area":647500.0
+  },
+  {
+    "Country Name":"Antigua and Barbuda",
+    "Country Capital":"St. John's",
+    "Country Population":86754,
+    "Country Area":443.0
+  },
+  {
+    "Country Name":"Anguilla",
+    "Country Capital":"The Valley",
+    "Country Population":13254,
+    "Country Area":102.0
+  },
+  {
+    "Country Name":"Albania",
+    "Country Capital":"Tirana",
+    "Country Population":2986952,
+    "Country Area":28748.0
+  },
+  {
+    "Country Name":"Armenia",
+    "Country Capital":"Yerevan",
+    "Country Population":2968000,
+    "Country Area":29800.0
+  },
+  {
+    "Country Name":"Angola",
+    "Country Capital":"Luanda",
+    "Country Population":13068161,
+    "Country Area":1246700.0
+  },
+  {
+    "Country Name":"Antarctica",
+    "Country Capital":"None",
+    "Country Population":0,
+    "Country Area":14000000.0
+  },
+  {
+    "Country Name":"Argentina",
+    "Country Capital":"Buenos Aires",
+    "Country Population":41343201,
+    "Country Area":2766890.0
+  },
+  {
+    "Country Name":"American Samoa",
+    "Country Capital":"Pago Pago",
+    "Country Population":57881,
+    "Country Area":199.0
+  },
+  {
+    "Country Name":"Austria",
+    "Country Capital":"Vienna",
+    "Country Population":8205000,
+    "Country Area":83858.0
+  },
+  {
+    "Country Name":"Australia",
+    "Country Capital":"Canberra",
+    "Country Population":21515754,
+    "Country Area":7686850.0
+  },
+  {
+    "Country Name":"Aruba",
+    "Country Capital":"Oranjestad",
+    "Country Population":71566,
+    "Country Area":193.0
+  },
+  {
+    "Country Name":"\u00c5land",
+    "Country Capital":"Mariehamn",
+    "Country Population":26711,
+    "Country Area":1580.0
+  },
+  {
+    "Country Name":"Azerbaijan",
+    "Country Capital":"Baku",
+    "Country Population":8303512,
+    "Country Area":86600.0
+  },
+  {
+    "Country Name":"Bosnia and Herzegovina",
+    "Country Capital":"Sarajevo",
+    "Country Population":4590000,
+    "Country Area":51129.0
+  },
+  {
+    "Country Name":"Barbados",
+    "Country Capital":"Bridgetown",
+    "Country Population":285653,
+    "Country Area":431.0
+  },
+  {
+    "Country Name":"Bangladesh",
+    "Country Capital":"Dhaka",
+    "Country Population":156118464,
+    "Country Area":144000.0
+  },
+  {
+    "Country Name":"Belgium",
+    "Country Capital":"Brussels",
+    "Country Population":10403000,
+    "Country Area":30510.0
+  },
+  {
+    "Country Name":"Burkina Faso",
+    "Country Capital":"Ouagadougou",
+    "Country Population":16241811,
+    "Country Area":274200.0
+  },
+  {
+    "Country Name":"Bulgaria",
+    "Country Capital":"Sofia",
+    "Country Population":7148785,
+    "Country Area":110910.0
+  },
+  {
+    "Country Name":"Bahrain",
+    "Country Capital":"Manama",
+    "Country Population":738004,
+    "Country Area":665.0
+  },
+  {
+    "Country Name":"Burundi",
+    "Country Capital":"Bujumbura",
+    "Country Population":9863117,
+    "Country Area":27830.0
+  },
+  {
+    "Country Name":"Benin",
+    "Country Capital":"Porto-Novo",
+    "Country Population":9056010,
+    "Country Area":112620.0
+  },
+  {
+    "Country Name":"Saint Barth\u00e9lemy",
+    "Country Capital":"Gustavia",
+    "Country Population":8450,
+    "Country Area":21.0
+  },
+  {
+    "Country Name":"Bermuda",
+    "Country Capital":"Hamilton",
+    "Country Population":65365,
+    "Country Area":53.0
+  },
+  {
+    "Country Name":"Brunei",
+    "Country Capital":"Bandar Seri Begawan",
+    "Country Population":395027,
+    "Country Area":5770.0
+  },
+  {
+    "Country Name":"Bolivia",
+    "Country Capital":"Sucre",
+    "Country Population":9947418,
+    "Country Area":1098580.0
+  },
+  {
+    "Country Name":"Bonaire",
+    "Country Capital":"Kralendijk",
+    "Country Population":18012,
+    "Country Area":328.0
+  },
+  {
+    "Country Name":"Brazil",
+    "Country Capital":"Bras\u00edlia",
+    "Country Population":201103330,
+    "Country Area":8511965.0
+  },
+  {
+    "Country Name":"Bahamas",
+    "Country Capital":"Nassau",
+    "Country Population":301790,
+    "Country Area":13940.0
+  },
+  {
+    "Country Name":"Bhutan",
+    "Country Capital":"Thimphu",
+    "Country Population":699847,
+    "Country Area":47000.0
+  },
+  {
+    "Country Name":"Bouvet Island",
+    "Country Capital":"None",
+    "Country Population":0,
+    "Country Area":49.0
+  },
+  {
+    "Country Name":"Botswana",
+    "Country Capital":"Gaborone",
+    "Country Population":2029307,
+    "Country Area":600370.0
+  },
+  {
+    "Country Name":"Belarus",
+    "Country Capital":"Minsk",
+    "Country Population":9685000,
+    "Country Area":207600.0
+  },
+  {
+    "Country Name":"Belize",
+    "Country Capital":"Belmopan",
+    "Country Population":314522,
+    "Country Area":22966.0
+  },
+  {
+    "Country Name":"Canada",
+    "Country Capital":"Ottawa",
+    "Country Population":33679000,
+    "Country Area":9984670.0
+  },
+  {
+    "Country Name":"Cocos [Keeling] Islands",
+    "Country Capital":"West Island",
+    "Country Population":628,
+    "Country Area":14.0
+  },
+  {
+    "Country Name":"Democratic Republic of the Congo",
+    "Country Capital":"Kinshasa",
+    "Country Population":70916439,
+    "Country Area":2345410.0
+  },
+  {
+    "Country Name":"Central African Republic",
+    "Country Capital":"Bangui",
+    "Country Population":4844927,
+    "Country Area":622984.0
+  },
+  {
+    "Country Name":"Republic of the Congo",
+    "Country Capital":"Brazzaville",
+    "Country Population":3039126,
+    "Country Area":342000.0
+  },
+  {
+    "Country Name":"Switzerland",
+    "Country Capital":"Bern",
+    "Country Population":7581000,
+    "Country Area":41290.0
+  },
+  {
+    "Country Name":"Ivory Coast",
+    "Country Capital":"Yamoussoukro",
+    "Country Population":21058798,
+    "Country Area":322460.0
+  },
+  {
+    "Country Name":"Cook Islands",
+    "Country Capital":"Avarua",
+    "Country Population":21388,
+    "Country Area":240.0
+  },
+  {
+    "Country Name":"Chile",
+    "Country Capital":"Santiago",
+    "Country Population":16746491,
+    "Country Area":756950.0
+  },
+  {
+    "Country Name":"Cameroon",
+    "Country Capital":"Yaound\u00e9",
+    "Country Population":19294149,
+    "Country Area":475440.0
+  },
+  {
+    "Country Name":"China",
+    "Country Capital":"Beijing",
+    "Country Population":1330044000,
+    "Country Area":9596960.0
+  },
+  {
+    "Country Name":"Colombia",
+    "Country Capital":"Bogot\u00e1",
+    "Country Population":47790000,
+    "Country Area":1138910.0
+  },
+  {
+    "Country Name":"Costa Rica",
+    "Country Capital":"San Jos\u00e9",
+    "Country Population":4516220,
+    "Country Area":51100.0
+  },
+  {
+    "Country Name":"Cuba",
+    "Country Capital":"Havana",
+    "Country Population":11423000,
+    "Country Area":110860.0
+  },
+  {
+    "Country Name":"Cape Verde",
+    "Country Capital":"Praia",
+    "Country Population":508659,
+    "Country Area":4033.0
+  },
+  {
+    "Country Name":"Curacao",
+    "Country Capital":"Willemstad",
+    "Country Population":141766,
+    "Country Area":444.0
+  },
+  {
+    "Country Name":"Christmas Island",
+    "Country Capital":"Flying Fish Cove",
+    "Country Population":1500,
+    "Country Area":135.0
+  },
+  {
+    "Country Name":"Cyprus",
+    "Country Capital":"Nicosia",
+    "Country Population":1102677,
+    "Country Area":9250.0
+  },
+  {
+    "Country Name":"Czech Republic",
+    "Country Capital":"Prague",
+    "Country Population":10476000,
+    "Country Area":78866.0
+  },
+  {
+    "Country Name":"Germany",
+    "Country Capital":"Berlin",
+    "Country Population":81802257,
+    "Country Area":357021.0
+  },
+  {
+    "Country Name":"Djibouti",
+    "Country Capital":"Djibouti",
+    "Country Population":740528,
+    "Country Area":23000.0
+  },
+  {
+    "Country Name":"Denmark",
+    "Country Capital":"Copenhagen",
+    "Country Population":5484000,
+    "Country Area":43094.0
+  },
+  {
+    "Country Name":"Dominica",
+    "Country Capital":"Roseau",
+    "Country Population":72813,
+    "Country Area":754.0
+  },
+  {
+    "Country Name":"Dominican Republic",
+    "Country Capital":"Santo Domingo",
+    "Country Population":9823821,
+    "Country Area":48730.0
+  },
+  {
+    "Country Name":"Algeria",
+    "Country Capital":"Algiers",
+    "Country Population":34586184,
+    "Country Area":2381740.0
+  },
+  {
+    "Country Name":"Ecuador",
+    "Country Capital":"Quito",
+    "Country Population":14790608,
+    "Country Area":283560.0
+  },
+  {
+    "Country Name":"Estonia",
+    "Country Capital":"Tallinn",
+    "Country Population":1291170,
+    "Country Area":45226.0
+  },
+  {
+    "Country Name":"Egypt",
+    "Country Capital":"Cairo",
+    "Country Population":80471869,
+    "Country Area":1001450.0
+  },
+  {
+    "Country Name":"Western Sahara",
+    "Country Capital":"La\u00e2youne \/ El Aai\u00fan",
+    "Country Population":273008,
+    "Country Area":266000.0
+  },
+  {
+    "Country Name":"Eritrea",
+    "Country Capital":"Asmara",
+    "Country Population":5792984,
+    "Country Area":121320.0
+  },
+  {
+    "Country Name":"Spain",
+    "Country Capital":"Madrid",
+    "Country Population":46505963,
+    "Country Area":504782.0
+  },
+  {
+    "Country Name":"Ethiopia",
+    "Country Capital":"Addis Ababa",
+    "Country Population":88013491,
+    "Country Area":1127127.0
+  },
+  {
+    "Country Name":"Finland",
+    "Country Capital":"Helsinki",
+    "Country Population":5244000,
+    "Country Area":337030.0
+  },
+  {
+    "Country Name":"Fiji",
+    "Country Capital":"Suva",
+    "Country Population":875983,
+    "Country Area":18270.0
+  },
+  {
+    "Country Name":"Falkland Islands",
+    "Country Capital":"Stanley",
+    "Country Population":2638,
+    "Country Area":12173.0
+  },
+  {
+    "Country Name":"Micronesia",
+    "Country Capital":"Palikir",
+    "Country Population":107708,
+    "Country Area":702.0
+  },
+  {
+    "Country Name":"Faroe Islands",
+    "Country Capital":"T\u00f3rshavn",
+    "Country Population":48228,
+    "Country Area":1399.0
+  },
+  {
+    "Country Name":"France",
+    "Country Capital":"Paris",
+    "Country Population":64768389,
+    "Country Area":547030.0
+  },
+  {
+    "Country Name":"Gabon",
+    "Country Capital":"Libreville",
+    "Country Population":1545255,
+    "Country Area":267667.0
+  },
+  {
+    "Country Name":"United Kingdom",
+    "Country Capital":"London",
+    "Country Population":62348447,
+    "Country Area":244820.0
+  },
+  {
+    "Country Name":"Grenada",
+    "Country Capital":"St. George's",
+    "Country Population":107818,
+    "Country Area":344.0
+  },
+  {
+    "Country Name":"Georgia",
+    "Country Capital":"Tbilisi",
+    "Country Population":4630000,
+    "Country Area":69700.0
+  },
+  {
+    "Country Name":"French Guiana",
+    "Country Capital":"Cayenne",
+    "Country Population":195506,
+    "Country Area":91000.0
+  },
+  {
+    "Country Name":"Guernsey",
+    "Country Capital":"St Peter Port",
+    "Country Population":65228,
+    "Country Area":78.0
+  },
+  {
+    "Country Name":"Ghana",
+    "Country Capital":"Accra",
+    "Country Population":24339838,
+    "Country Area":239460.0
+  },
+  {
+    "Country Name":"Gibraltar",
+    "Country Capital":"Gibraltar",
+    "Country Population":27884,
+    "Country Area":6.5
+  },
+  {
+    "Country Name":"Greenland",
+    "Country Capital":"Nuuk",
+    "Country Population":56375,
+    "Country Area":2166086.0
+  },
+  {
+    "Country Name":"Gambia",
+    "Country Capital":"Bathurst",
+    "Country Population":1593256,
+    "Country Area":11300.0
+  },
+  {
+    "Country Name":"Guinea",
+    "Country Capital":"Conakry",
+    "Country Population":10324025,
+    "Country Area":245857.0
+  },
+  {
+    "Country Name":"Guadeloupe",
+    "Country Capital":"Basse-Terre",
+    "Country Population":443000,
+    "Country Area":1780.0
+  },
+  {
+    "Country Name":"Equatorial Guinea",
+    "Country Capital":"Malabo",
+    "Country Population":1014999,
+    "Country Area":28051.0
+  },
+  {
+    "Country Name":"Greece",
+    "Country Capital":"Athens",
+    "Country Population":11000000,
+    "Country Area":131940.0
+  },
+  {
+    "Country Name":"South Georgia and the South Sandwich Islands",
+    "Country Capital":"Grytviken",
+    "Country Population":30,
+    "Country Area":3903.0
+  },
+  {
+    "Country Name":"Guatemala",
+    "Country Capital":"Guatemala City",
+    "Country Population":13550440,
+    "Country Area":108890.0
+  },
+  {
+    "Country Name":"Guam",
+    "Country Capital":"Hag\u00e5t\u00f1a",
+    "Country Population":159358,
+    "Country Area":549.0
+  },
+  {
+    "Country Name":"Guinea-Bissau",
+    "Country Capital":"Bissau",
+    "Country Population":1565126,
+    "Country Area":36120.0
+  },
+  {
+    "Country Name":"Guyana",
+    "Country Capital":"Georgetown",
+    "Country Population":748486,
+    "Country Area":214970.0
+  },
+  {
+    "Country Name":"Hong Kong",
+    "Country Capital":"Hong Kong",
+    "Country Population":6898686,
+    "Country Area":1092.0
+  },
+  {
+    "Country Name":"Heard Island and McDonald Islands",
+    "Country Capital":"None",
+    "Country Population":0,
+    "Country Area":412.0
+  },
+  {
+    "Country Name":"Honduras",
+    "Country Capital":"Tegucigalpa",
+    "Country Population":7989415,
+    "Country Area":112090.0
+  },
+  {
+    "Country Name":"Croatia",
+    "Country Capital":"Zagreb",
+    "Country Population":4491000,
+    "Country Area":56542.0
+  },
+  {
+    "Country Name":"Haiti",
+    "Country Capital":"Port-au-Prince",
+    "Country Population":9648924,
+    "Country Area":27750.0
+  },
+  {
+    "Country Name":"Hungary",
+    "Country Capital":"Budapest",
+    "Country Population":9982000,
+    "Country Area":93030.0
+  },
+  {
+    "Country Name":"Indonesia",
+    "Country Capital":"Jakarta",
+    "Country Population":242968342,
+    "Country Area":1919440.0
+  },
+  {
+    "Country Name":"Ireland",
+    "Country Capital":"Dublin",
+    "Country Population":4622917,
+    "Country Area":70280.0
+  },
+  {
+    "Country Name":"Israel",
+    "Country Capital":"None",
+    "Country Population":7353985,
+    "Country Area":20770.0
+  },
+  {
+    "Country Name":"Isle of Man",
+    "Country Capital":"Douglas",
+    "Country Population":75049,
+    "Country Area":572.0
+  },
+  {
+    "Country Name":"India",
+    "Country Capital":"New Delhi",
+    "Country Population":1173108018,
+    "Country Area":3287590.0
+  },
+  {
+    "Country Name":"British Indian Ocean Territory",
+    "Country Capital":"None",
+    "Country Population":4000,
+    "Country Area":60.0
+  },
+  {
+    "Country Name":"Iraq",
+    "Country Capital":"Baghdad",
+    "Country Population":29671605,
+    "Country Area":437072.0
+  },
+  {
+    "Country Name":"Iran",
+    "Country Capital":"Tehran",
+    "Country Population":76923300,
+    "Country Area":1648000.0
+  },
+  {
+    "Country Name":"Iceland",
+    "Country Capital":"Reykjavik",
+    "Country Population":308910,
+    "Country Area":103000.0
+  },
+  {
+    "Country Name":"Italy",
+    "Country Capital":"Rome",
+    "Country Population":60340328,
+    "Country Area":301230.0
+  },
+  {
+    "Country Name":"Jersey",
+    "Country Capital":"Saint Helier",
+    "Country Population":90812,
+    "Country Area":116.0
+  },
+  {
+    "Country Name":"Jamaica",
+    "Country Capital":"Kingston",
+    "Country Population":2847232,
+    "Country Area":10991.0
+  },
+  {
+    "Country Name":"Jordan",
+    "Country Capital":"Amman",
+    "Country Population":6407085,
+    "Country Area":92300.0
+  },
+  {
+    "Country Name":"Japan",
+    "Country Capital":"Tokyo",
+    "Country Population":127288000,
+    "Country Area":377835.0
+  },
+  {
+    "Country Name":"Kenya",
+    "Country Capital":"Nairobi",
+    "Country Population":40046566,
+    "Country Area":582650.0
+  },
+  {
+    "Country Name":"Kyrgyzstan",
+    "Country Capital":"Bishkek",
+    "Country Population":5776500,
+    "Country Area":198500.0
+  },
+  {
+    "Country Name":"Cambodia",
+    "Country Capital":"Phnom Penh",
+    "Country Population":14453680,
+    "Country Area":181040.0
+  },
+  {
+    "Country Name":"Kiribati",
+    "Country Capital":"Tarawa",
+    "Country Population":92533,
+    "Country Area":811.0
+  },
+  {
+    "Country Name":"Comoros",
+    "Country Capital":"Moroni",
+    "Country Population":773407,
+    "Country Area":2170.0
+  },
+  {
+    "Country Name":"Saint Kitts and Nevis",
+    "Country Capital":"Basseterre",
+    "Country Population":51134,
+    "Country Area":261.0
+  },
+  {
+    "Country Name":"North Korea",
+    "Country Capital":"Pyongyang",
+    "Country Population":22912177,
+    "Country Area":120540.0
+  },
+  {
+    "Country Name":"South Korea",
+    "Country Capital":"Seoul",
+    "Country Population":48422644,
+    "Country Area":98480.0
+  },
+  {
+    "Country Name":"Kuwait",
+    "Country Capital":"Kuwait City",
+    "Country Population":2789132,
+    "Country Area":17820.0
+  },
+  {
+    "Country Name":"Cayman Islands",
+    "Country Capital":"George Town",
+    "Country Population":44270,
+    "Country Area":262.0
+  },
+  {
+    "Country Name":"Kazakhstan",
+    "Country Capital":"Astana",
+    "Country Population":15340000,
+    "Country Area":2717300.0
+  },
+  {
+    "Country Name":"Laos",
+    "Country Capital":"Vientiane",
+    "Country Population":6368162,
+    "Country Area":236800.0
+  },
+  {
+    "Country Name":"Lebanon",
+    "Country Capital":"Beirut",
+    "Country Population":4125247,
+    "Country Area":10400.0
+  },
+  {
+    "Country Name":"Saint Lucia",
+    "Country Capital":"Castries",
+    "Country Population":160922,
+    "Country Area":616.0
+  },
+  {
+    "Country Name":"Liechtenstein",
+    "Country Capital":"Vaduz",
+    "Country Population":35000,
+    "Country Area":160.0
+  },
+  {
+    "Country Name":"Sri Lanka",
+    "Country Capital":"Colombo",
+    "Country Population":21513990,
+    "Country Area":65610.0
+  },
+  {
+    "Country Name":"Liberia",
+    "Country Capital":"Monrovia",
+    "Country Population":3685076,
+    "Country Area":111370.0
+  },
+  {
+    "Country Name":"Lesotho",
+    "Country Capital":"Maseru",
+    "Country Population":1919552,
+    "Country Area":30355.0
+  },
+  {
+    "Country Name":"Lithuania",
+    "Country Capital":"Vilnius",
+    "Country Population":2944459,
+    "Country Area":65200.0
+  },
+  {
+    "Country Name":"Luxembourg",
+    "Country Capital":"Luxembourg",
+    "Country Population":497538,
+    "Country Area":2586.0
+  },
+  {
+    "Country Name":"Latvia",
+    "Country Capital":"Riga",
+    "Country Population":2217969,
+    "Country Area":64589.0
+  },
+  {
+    "Country Name":"Libya",
+    "Country Capital":"Tripoli",
+    "Country Population":6461454,
+    "Country Area":1759540.0
+  },
+  {
+    "Country Name":"Morocco",
+    "Country Capital":"Rabat",
+    "Country Population":31627428,
+    "Country Area":446550.0
+  },
+  {
+    "Country Name":"Monaco",
+    "Country Capital":"Monaco",
+    "Country Population":32965,
+    "Country Area":1.95
+  },
+  {
+    "Country Name":"Moldova",
+    "Country Capital":"Chi\u015fin\u0103u",
+    "Country Population":4324000,
+    "Country Area":33843.0
+  },
+  {
+    "Country Name":"Montenegro",
+    "Country Capital":"Podgorica",
+    "Country Population":666730,
+    "Country Area":14026.0
+  },
+  {
+    "Country Name":"Saint Martin",
+    "Country Capital":"Marigot",
+    "Country Population":35925,
+    "Country Area":53.0
+  },
+  {
+    "Country Name":"Madagascar",
+    "Country Capital":"Antananarivo",
+    "Country Population":21281844,
+    "Country Area":587040.0
+  },
+  {
+    "Country Name":"Marshall Islands",
+    "Country Capital":"Majuro",
+    "Country Population":65859,
+    "Country Area":181.3
+  },
+  {
+    "Country Name":"Macedonia",
+    "Country Capital":"Skopje",
+    "Country Population":2062294,
+    "Country Area":25333.0
+  },
+  {
+    "Country Name":"Mali",
+    "Country Capital":"Bamako",
+    "Country Population":13796354,
+    "Country Area":1240000.0
+  },
+  {
+    "Country Name":"Myanmar [Burma]",
+    "Country Capital":"Naypyitaw",
+    "Country Population":53414374,
+    "Country Area":678500.0
+  },
+  {
+    "Country Name":"Mongolia",
+    "Country Capital":"Ulan Bator",
+    "Country Population":3086918,
+    "Country Area":1565000.0
+  },
+  {
+    "Country Name":"Macao",
+    "Country Capital":"Macao",
+    "Country Population":449198,
+    "Country Area":254.0
+  },
+  {
+    "Country Name":"Northern Mariana Islands",
+    "Country Capital":"Saipan",
+    "Country Population":53883,
+    "Country Area":477.0
+  },
+  {
+    "Country Name":"Martinique",
+    "Country Capital":"Fort-de-France",
+    "Country Population":432900,
+    "Country Area":1100.0
+  },
+  {
+    "Country Name":"Mauritania",
+    "Country Capital":"Nouakchott",
+    "Country Population":3205060,
+    "Country Area":1030700.0
+  },
+  {
+    "Country Name":"Montserrat",
+    "Country Capital":"Plymouth",
+    "Country Population":9341,
+    "Country Area":102.0
+  },
+  {
+    "Country Name":"Malta",
+    "Country Capital":"Valletta",
+    "Country Population":403000,
+    "Country Area":316.0
+  },
+  {
+    "Country Name":"Mauritius",
+    "Country Capital":"Port Louis",
+    "Country Population":1294104,
+    "Country Area":2040.0
+  },
+  {
+    "Country Name":"Maldives",
+    "Country Capital":"Mal\u00e9",
+    "Country Population":395650,
+    "Country Area":300.0
+  },
+  {
+    "Country Name":"Malawi",
+    "Country Capital":"Lilongwe",
+    "Country Population":15447500,
+    "Country Area":118480.0
+  },
+  {
+    "Country Name":"Mexico",
+    "Country Capital":"Mexico City",
+    "Country Population":112468855,
+    "Country Area":1972550.0
+  },
+  {
+    "Country Name":"Malaysia",
+    "Country Capital":"Kuala Lumpur",
+    "Country Population":28274729,
+    "Country Area":329750.0
+  },
+  {
+    "Country Name":"Mozambique",
+    "Country Capital":"Maputo",
+    "Country Population":22061451,
+    "Country Area":801590.0
+  },
+  {
+    "Country Name":"Namibia",
+    "Country Capital":"Windhoek",
+    "Country Population":2128471,
+    "Country Area":825418.0
+  },
+  {
+    "Country Name":"New Caledonia",
+    "Country Capital":"Noumea",
+    "Country Population":216494,
+    "Country Area":19060.0
+  },
+  {
+    "Country Name":"Niger",
+    "Country Capital":"Niamey",
+    "Country Population":15878271,
+    "Country Area":1267000.0
+  },
+  {
+    "Country Name":"Norfolk Island",
+    "Country Capital":"Kingston",
+    "Country Population":1828,
+    "Country Area":34.6
+  },
+  {
+    "Country Name":"Nigeria",
+    "Country Capital":"Abuja",
+    "Country Population":154000000,
+    "Country Area":923768.0
+  },
+  {
+    "Country Name":"Nicaragua",
+    "Country Capital":"Managua",
+    "Country Population":5995928,
+    "Country Area":129494.0
+  },
+  {
+    "Country Name":"Netherlands",
+    "Country Capital":"Amsterdam",
+    "Country Population":16645000,
+    "Country Area":41526.0
+  },
+  {
+    "Country Name":"Norway",
+    "Country Capital":"Oslo",
+    "Country Population":5009150,
+    "Country Area":324220.0
+  },
+  {
+    "Country Name":"Nepal",
+    "Country Capital":"Kathmandu",
+    "Country Population":28951852,
+    "Country Area":140800.0
+  },
+  {
+    "Country Name":"Nauru",
+    "Country Capital":"Yaren",
+    "Country Population":10065,
+    "Country Area":21.0
+  },
+  {
+    "Country Name":"Niue",
+    "Country Capital":"Alofi",
+    "Country Population":2166,
+    "Country Area":260.0
+  },
+  {
+    "Country Name":"New Zealand",
+    "Country Capital":"Wellington",
+    "Country Population":4252277,
+    "Country Area":268680.0
+  },
+  {
+    "Country Name":"Oman",
+    "Country Capital":"Muscat",
+    "Country Population":2967717,
+    "Country Area":212460.0
+  },
+  {
+    "Country Name":"Panama",
+    "Country Capital":"Panama City",
+    "Country Population":3410676,
+    "Country Area":78200.0
+  },
+  {
+    "Country Name":"Peru",
+    "Country Capital":"Lima",
+    "Country Population":29907003,
+    "Country Area":1285220.0
+  },
+  {
+    "Country Name":"French Polynesia",
+    "Country Capital":"Papeete",
+    "Country Population":270485,
+    "Country Area":4167.0
+  },
+  {
+    "Country Name":"Papua New Guinea",
+    "Country Capital":"Port Moresby",
+    "Country Population":6064515,
+    "Country Area":462840.0
+  },
+  {
+    "Country Name":"Philippines",
+    "Country Capital":"Manila",
+    "Country Population":99900177,
+    "Country Area":300000.0
+  },
+  {
+    "Country Name":"Pakistan",
+    "Country Capital":"Islamabad",
+    "Country Population":184404791,
+    "Country Area":803940.0
+  },
+  {
+    "Country Name":"Poland",
+    "Country Capital":"Warsaw",
+    "Country Population":38500000,
+    "Country Area":312685.0
+  },
+  {
+    "Country Name":"Saint Pierre and Miquelon",
+    "Country Capital":"Saint-Pierre",
+    "Country Population":7012,
+    "Country Area":242.0
+  },
+  {
+    "Country Name":"Pitcairn Islands",
+    "Country Capital":"Adamstown",
+    "Country Population":46,
+    "Country Area":47.0
+  },
+  {
+    "Country Name":"Puerto Rico",
+    "Country Capital":"San Juan",
+    "Country Population":3916632,
+    "Country Area":9104.0
+  },
+  {
+    "Country Name":"Palestine",
+    "Country Capital":"None",
+    "Country Population":3800000,
+    "Country Area":5970.0
+  },
+  {
+    "Country Name":"Portugal",
+    "Country Capital":"Lisbon",
+    "Country Population":10676000,
+    "Country Area":92391.0
+  },
+  {
+    "Country Name":"Palau",
+    "Country Capital":"Melekeok",
+    "Country Population":19907,
+    "Country Area":458.0
+  },
+  {
+    "Country Name":"Paraguay",
+    "Country Capital":"Asunci\u00f3n",
+    "Country Population":6375830,
+    "Country Area":406750.0
+  },
+  {
+    "Country Name":"Qatar",
+    "Country Capital":"Doha",
+    "Country Population":840926,
+    "Country Area":11437.0
+  },
+  {
+    "Country Name":"R\u00e9union",
+    "Country Capital":"Saint-Denis",
+    "Country Population":776948,
+    "Country Area":2517.0
+  },
+  {
+    "Country Name":"Romania",
+    "Country Capital":"Bucharest",
+    "Country Population":21959278,
+    "Country Area":237500.0
+  },
+  {
+    "Country Name":"Serbia",
+    "Country Capital":"Belgrade",
+    "Country Population":7344847,
+    "Country Area":88361.0
+  },
+  {
+    "Country Name":"Russia",
+    "Country Capital":"Moscow",
+    "Country Population":140702000,
+    "Country Area":17100000.0
+  },
+  {
+    "Country Name":"Rwanda",
+    "Country Capital":"Kigali",
+    "Country Population":11055976,
+    "Country Area":26338.0
+  },
+  {
+    "Country Name":"Saudi Arabia",
+    "Country Capital":"Riyadh",
+    "Country Population":25731776,
+    "Country Area":1960582.0
+  },
+  {
+    "Country Name":"Solomon Islands",
+    "Country Capital":"Honiara",
+    "Country Population":559198,
+    "Country Area":28450.0
+  },
+  {
+    "Country Name":"Seychelles",
+    "Country Capital":"Victoria",
+    "Country Population":88340,
+    "Country Area":455.0
+  },
+  {
+    "Country Name":"Sudan",
+    "Country Capital":"Khartoum",
+    "Country Population":35000000,
+    "Country Area":1861484.0
+  },
+  {
+    "Country Name":"Sweden",
+    "Country Capital":"Stockholm",
+    "Country Population":9828655,
+    "Country Area":449964.0
+  },
+  {
+    "Country Name":"Singapore",
+    "Country Capital":"Singapore",
+    "Country Population":4701069,
+    "Country Area":692.7
+  },
+  {
+    "Country Name":"Saint Helena",
+    "Country Capital":"Jamestown",
+    "Country Population":7460,
+    "Country Area":410.0
+  },
+  {
+    "Country Name":"Slovenia",
+    "Country Capital":"Ljubljana",
+    "Country Population":2007000,
+    "Country Area":20273.0
+  },
+  {
+    "Country Name":"Svalbard and Jan Mayen",
+    "Country Capital":"Longyearbyen",
+    "Country Population":2550,
+    "Country Area":62049.0
+  },
+  {
+    "Country Name":"Slovakia",
+    "Country Capital":"Bratislava",
+    "Country Population":5455000,
+    "Country Area":48845.0
+  },
+  {
+    "Country Name":"Sierra Leone",
+    "Country Capital":"Freetown",
+    "Country Population":5245695,
+    "Country Area":71740.0
+  },
+  {
+    "Country Name":"San Marino",
+    "Country Capital":"San Marino",
+    "Country Population":31477,
+    "Country Area":61.2
+  },
+  {
+    "Country Name":"Senegal",
+    "Country Capital":"Dakar",
+    "Country Population":12323252,
+    "Country Area":196190.0
+  },
+  {
+    "Country Name":"Somalia",
+    "Country Capital":"Mogadishu",
+    "Country Population":10112453,
+    "Country Area":637657.0
+  },
+  {
+    "Country Name":"Suriname",
+    "Country Capital":"Paramaribo",
+    "Country Population":492829,
+    "Country Area":163270.0
+  },
+  {
+    "Country Name":"South Sudan",
+    "Country Capital":"Juba",
+    "Country Population":8260490,
+    "Country Area":644329.0
+  },
+  {
+    "Country Name":"S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "Country Capital":"S\u00e3o Tom\u00e9",
+    "Country Population":175808,
+    "Country Area":1001.0
+  },
+  {
+    "Country Name":"El Salvador",
+    "Country Capital":"San Salvador",
+    "Country Population":6052064,
+    "Country Area":21040.0
+  },
+  {
+    "Country Name":"Sint Maarten",
+    "Country Capital":"Philipsburg",
+    "Country Population":37429,
+    "Country Area":21.0
+  },
+  {
+    "Country Name":"Syria",
+    "Country Capital":"Damascus",
+    "Country Population":22198110,
+    "Country Area":185180.0
+  },
+  {
+    "Country Name":"Swaziland",
+    "Country Capital":"Mbabane",
+    "Country Population":1354051,
+    "Country Area":17363.0
+  },
+  {
+    "Country Name":"Turks and Caicos Islands",
+    "Country Capital":"Cockburn Town",
+    "Country Population":20556,
+    "Country Area":430.0
+  },
+  {
+    "Country Name":"Chad",
+    "Country Capital":"N'Djamena",
+    "Country Population":10543464,
+    "Country Area":1284000.0
+  },
+  {
+    "Country Name":"French Southern Territories",
+    "Country Capital":"Port-aux-Fran\u00e7ais",
+    "Country Population":140,
+    "Country Area":7829.0
+  },
+  {
+    "Country Name":"Togo",
+    "Country Capital":"Lom\u00e9",
+    "Country Population":6587239,
+    "Country Area":56785.0
+  },
+  {
+    "Country Name":"Thailand",
+    "Country Capital":"Bangkok",
+    "Country Population":67089500,
+    "Country Area":514000.0
+  },
+  {
+    "Country Name":"Tajikistan",
+    "Country Capital":"Dushanbe",
+    "Country Population":7487489,
+    "Country Area":143100.0
+  },
+  {
+    "Country Name":"Tokelau",
+    "Country Capital":"None",
+    "Country Population":1466,
+    "Country Area":10.0
+  },
+  {
+    "Country Name":"East Timor",
+    "Country Capital":"Dili",
+    "Country Population":1154625,
+    "Country Area":15007.0
+  },
+  {
+    "Country Name":"Turkmenistan",
+    "Country Capital":"Ashgabat",
+    "Country Population":4940916,
+    "Country Area":488100.0
+  },
+  {
+    "Country Name":"Tunisia",
+    "Country Capital":"Tunis",
+    "Country Population":10589025,
+    "Country Area":163610.0
+  },
+  {
+    "Country Name":"Tonga",
+    "Country Capital":"Nuku'alofa",
+    "Country Population":122580,
+    "Country Area":748.0
+  },
+  {
+    "Country Name":"Turkey",
+    "Country Capital":"Ankara",
+    "Country Population":77804122,
+    "Country Area":780580.0
+  },
+  {
+    "Country Name":"Trinidad and Tobago",
+    "Country Capital":"Port of Spain",
+    "Country Population":1228691,
+    "Country Area":5128.0
+  },
+  {
+    "Country Name":"Tuvalu",
+    "Country Capital":"Funafuti",
+    "Country Population":10472,
+    "Country Area":26.0
+  },
+  {
+    "Country Name":"Taiwan",
+    "Country Capital":"Taipei",
+    "Country Population":22894384,
+    "Country Area":35980.0
+  },
+  {
+    "Country Name":"Tanzania",
+    "Country Capital":"Dodoma",
+    "Country Population":41892895,
+    "Country Area":945087.0
+  },
+  {
+    "Country Name":"Ukraine",
+    "Country Capital":"Kiev",
+    "Country Population":45415596,
+    "Country Area":603700.0
+  },
+  {
+    "Country Name":"Uganda",
+    "Country Capital":"Kampala",
+    "Country Population":33398682,
+    "Country Area":236040.0
+  },
+  {
+    "Country Name":"U.S. Minor Outlying Islands",
+    "Country Capital":"None",
+    "Country Population":0,
+    "Country Area":0.0
+  },
+  {
+    "Country Name":"United States",
+    "Country Capital":"Washington",
+    "Country Population":310232863,
+    "Country Area":9629091.0
+  },
+  {
+    "Country Name":"Uruguay",
+    "Country Capital":"Montevideo",
+    "Country Population":3477000,
+    "Country Area":176220.0
+  },
+  {
+    "Country Name":"Uzbekistan",
+    "Country Capital":"Tashkent",
+    "Country Population":27865738,
+    "Country Area":447400.0
+  },
+  {
+    "Country Name":"Vatican City",
+    "Country Capital":"Vatican City",
+    "Country Population":921,
+    "Country Area":0.44
+  },
+  {
+    "Country Name":"Saint Vincent and the Grenadines",
+    "Country Capital":"Kingstown",
+    "Country Population":104217,
+    "Country Area":389.0
+  },
+  {
+    "Country Name":"Venezuela",
+    "Country Capital":"Caracas",
+    "Country Population":27223228,
+    "Country Area":912050.0
+  },
+  {
+    "Country Name":"British Virgin Islands",
+    "Country Capital":"Road Town",
+    "Country Population":21730,
+    "Country Area":153.0
+  },
+  {
+    "Country Name":"U.S. Virgin Islands",
+    "Country Capital":"Charlotte Amalie",
+    "Country Population":108708,
+    "Country Area":352.0
+  },
+  {
+    "Country Name":"Vietnam",
+    "Country Capital":"Hanoi",
+    "Country Population":89571130,
+    "Country Area":329560.0
+  },
+  {
+    "Country Name":"Vanuatu",
+    "Country Capital":"Port Vila",
+    "Country Population":221552,
+    "Country Area":12200.0
+  },
+  {
+    "Country Name":"Wallis and Futuna",
+    "Country Capital":"Mata-Utu",
+    "Country Population":16025,
+    "Country Area":274.0
+  },
+  {
+    "Country Name":"Samoa",
+    "Country Capital":"Apia",
+    "Country Population":192001,
+    "Country Area":2944.0
+  },
+  {
+    "Country Name":"Kosovo",
+    "Country Capital":"Pristina",
+    "Country Population":1800000,
+    "Country Area":10908.0
+  },
+  {
+    "Country Name":"Yemen",
+    "Country Capital":"Sanaa",
+    "Country Population":23495361,
+    "Country Area":527970.0
+  },
+  {
+    "Country Name":"Mayotte",
+    "Country Capital":"Mamoudzou",
+    "Country Population":159042,
+    "Country Area":374.0
+  },
+  {
+    "Country Name":"South Africa",
+    "Country Capital":"Pretoria",
+    "Country Population":49000000,
+    "Country Area":1219912.0
+  },
+  {
+    "Country Name":"Zambia",
+    "Country Capital":"Lusaka",
+    "Country Population":13460305,
+    "Country Area":752614.0
+  },
+  {
+    "Country Name":"Zimbabwe",
+    "Country Capital":"Harare",
+    "Country Population":11651858,
+    "Country Area":390580.0
+  }
+]
